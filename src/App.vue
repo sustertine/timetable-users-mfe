@@ -9,7 +9,7 @@ import UserDetailsPage from "@/components/UserDetailsPage.vue";
 <!--  <ThemeSwitch />-->
 <!--  <RegisterButton />-->
 <!--  <LoginButton />-->
-  <UserDetailsPage />
+<!--  <UserDetailsPage />-->
 </template>
 
 <style scoped>
